@@ -1,0 +1,30 @@
+body{
+    background: #64cde7;
+}
+.bg-inline{
+    border-bottom: 3px solid red;
+}
+.fs-7{ 
+    font-size: 10px;
+}
+.btn-dengers{
+    background-color: coral;
+}
+.btn-dengers-sm{
+    background-color: coral;
+    height: 25px;font-size: 8px ;
+}
+.bg-blue{
+    background-color:goldenrod;
+    border-top-left-radius: 100px ;
+}
+.card{
+    display: flex;
+    border-radius: 20px;
+    background: #ebf743;
+}
+.btn{
+    display: flex;
+    border-radius: 20px;
+    align-content: center;
+}
